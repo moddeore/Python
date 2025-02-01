@@ -1,0 +1,6 @@
+name=input("Enter the Name : ")
+age=input("Enter your age : ")
+marks=input("Enter your marks : ")
+print("Your  Name : ",name)
+print("Your age : ",age)
+print("Your marks : ",marks)
